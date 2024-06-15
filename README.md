@@ -14,3 +14,17 @@ Analizando los productos sin estrellas por rango de precio, la empresa puede det
 Conocer cuáles productos son altamente valorados y cuáles no tienen calificación ayuda a optimizar el inventario, enfocándose en productos que tienen alta demanda y satisfacción del cliente.
 ¿Qué productos deben ser promocionados o descontinuados?
 La calidad y la visibilidad de las calificaciones pueden guiar decisiones sobre qué productos promocionar para aumentar su visibilidad y ventas, o cuáles descontinuar si consistentemente reciben malas calificaciones o no generan interés.
+
+Análisis de datos 
+
+Este análisis se centra en la población de 100 países para los años 2023 y 2024, comparando los cambios en la población y proporcionando visualizaciones claras de los datos. Utilizamos una variedad de técnicas de análisis y visualización de datos para extraer información clave y presentar nuestros hallazgos.     Principales Hallazgos
+Top 10 Países por Población en 2024:
+Los diez países con la mayor población proyectada en 2024 incluyen India, China, Estados Unidos, Indonesia, y Pakistán, entre otros.
+India lidera con una población proyectada de 1,441,719,852.
+Cambios Significativos en la Población:
+Algunos países, como India y Nigeria, muestran un aumento significativo en su población.
+Otros, como China y Rusia, muestran una ligera disminución en su población.
+Visualizaciones Clave:
+Gráfica de Barras: Muestra los 10 valores más altos de la población en 2023.
+Gráfica de Líneas: Compara la población de los top 10 países entre 2023 y 2024.
+Gráfica de Columnas Apiladas: Comparación directa de la población entre 2023 y 2024 para los top 10 países.
