@@ -1,5 +1,6 @@
 # Caso-2
 Limpieza de Datos
+https://github.com/luisaaof/Caso-2/blob/main/Limpieza%20y%20Transformaci%C3%B3n%20de%20dato%20(skin%20care).r
   Se trabajó con una base de datos en el contexto de una empresa que vende productos de cuidado de la piel. 
   ¿Cuáles son los productos de cuidado de la piel más valorados por los clientes?
   Al analizar las calificaciones de los productos según el número de estrellas, se puede identificar qué productos tienen las mejores valoraciones y son, por lo tanto, los favoritos de los clientes.
